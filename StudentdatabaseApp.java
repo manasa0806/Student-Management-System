@@ -1,3 +1,5 @@
+package studentdatabaseApp
+
 public class StudentdatabaseApp {
   
   public static void main(String[] args) {
